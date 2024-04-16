@@ -1,4 +1,4 @@
 # apna-demo
-my first github program learning through apna college yt
+my first github program 
 <br>
 author:sirinagati
